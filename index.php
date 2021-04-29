@@ -1,6 +1,6 @@
 <?php
-	echo " STB : 182228 <bt>";
-	echo " Nama : Abdul Syakur <bt>";
-	echo " KELAS : E <bt>";
+	echo " STB : 182228 <br>";
+	echo " Nama : Abdul Syakur <br>";
+	echo " KELAS : E <br>";
 	
 ?>
