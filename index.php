@@ -1,5 +1,5 @@
 <?php
-	echo<center> " STB : 182228 <br></center>";
+	echo " STB : 182228 <br>";
 	echo " Nama : Abdul Syakur <br>";
 	echo " KELAS : E <br>";
 	
